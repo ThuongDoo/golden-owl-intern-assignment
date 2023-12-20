@@ -1,0 +1,6 @@
+[submodule "golden-owl-server"]
+	path = golden-owl-server
+	url = https://github.com/ThuongDoo/golden-owl-server.git
+[submodule "golden-owl-frontend"]
+	path = golden-owl-frontend
+	url = https://github.com/ThuongDoo/golden-owl-frontend.git
